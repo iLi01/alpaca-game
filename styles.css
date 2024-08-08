@@ -1,0 +1,14 @@
+* {
+  background-color: rgb(226, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#alpaca-video {
+  max-width: 700px;
+}
+
+button {
+  cursor: pointer;
+  color: #393939;
+}
+
