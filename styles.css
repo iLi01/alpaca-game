@@ -10,5 +10,6 @@
 button {
   cursor: pointer;
   color: #393939;
+  border-radius: 3rem;
 }
 
